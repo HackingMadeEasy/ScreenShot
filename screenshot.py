@@ -1,10 +1,15 @@
+"""
+THIS WAS CODED BY CRYSTALPT. PLEASE DO NOT STEAL WITHOUT CREDITS.
+MAIN GITHUB LINK: https://github.com/CrystalPT
+"""
+
 import pyautogui
 import requests
 import io
 import json
 from datetime import datetime
 
-# IMPORTANT!: AT LINE 63 INPUT YOUR WEBHOOK URL
+# IMPORTANT!: AT LINE 68 INPUT YOUR WEBHOOK URL
 
 def take_screenshot():
     """Take a screenshot and return it as a bytes object."""
