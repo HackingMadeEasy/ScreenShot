@@ -17,5 +17,5 @@ Automated ScreenShot python script.
 	**5.** Open **CMD** *(not as administrator)*, type *cd downloads*, press enter.\
 	**6.** Now type *pyinstaller screenshot.py --onefile --noconsole --noupx* and hit enter, wait around 1 minute.\
 	**7.** Go into your downloads folder and look for a new folder called **Dist**, open that andd you now have your exe file with the code in it.\
-**---------------------------------------------------------------------------------------------------------------------------------------**\
+**---------------------------------------------------------------------------------------------------------------------------------**\
 **THIS IS FOR EDUCATIONAL PURPOSES ONLY AND IN NO WAY DO I ENDORSE HACKING OTHERS OR SENDING MALICOUS FILES TO OTHERS WITHOUT THEIR CONSENT**
