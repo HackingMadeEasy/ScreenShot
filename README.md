@@ -21,5 +21,5 @@ Automated ScreenShot python script.
 **THIS IS FOR EDUCATIONAL PURPOSES ONLY AND IN NO WAY DO I ENDORSE HACKING OTHERS OR SENDING MALICOUS FILES TO OTHERS WITHOUT THEIR CONSENT**\
 
 Everything here was coded by CrystalPT\
-Link To Main Github: https://github.com/CrystalPT\
+Link To Main Github: https://github.com/CrystalPT \
 Link To Discord: https://discord.gg/6PEhT4u8WD
