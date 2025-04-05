@@ -38,10 +38,10 @@ def send_to_discord(webhook_url, image_bytes, message="Screenshot"):
     # Create a nice embed with the image
     embed = {
         "title": "**📸 Screenshot Captured**",
-        "description": f"**{message}**\n\nTaken at: **{timestamp_str}**",
+        "description": f"**{message}**\n\nTaken at: **{timestamp_str}**\n\nJOIN MY DISCORD: https://discord.gg/6PEhT4u8WD",
         "color": 3447003,  # A nice blue color
         "footer": {
-            "text": "Automated Screenshot Service"
+            "text": "Automated Screenshot Service Made By CrystalPT"
         },
         "timestamp": timestamp.isoformat(),
         "image": {
